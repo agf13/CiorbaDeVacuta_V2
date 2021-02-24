@@ -1,17 +1,2 @@
-# IntelliJ IDEA
-*.iml
-*.ipr
-*.iws
-.idea
-build
-out
-generated
-MANIFEST.MF
 
-#gradle
-gradle
-.gradle
-
-#angular
-node_modules
 
